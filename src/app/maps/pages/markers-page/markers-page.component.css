@@ -1,0 +1,22 @@
+#map {
+    width: 50vw;
+    height: 50vh;
+}
+
+.list-group{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.eraseMarker{
+    color: black;
+}
